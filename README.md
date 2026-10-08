@@ -28,3 +28,8 @@ Library Information System for managing books, readers, book borrowing, returns,
 - Кітапхана статистикасын жүргізу.
 
 Бұл жоба Git және GitHub арқылы басқарылады.
+
+## GitHub синхрондау
+
+Бұл өзгеріс GitHub сайтында енгізілді.
+Git pull командасы арқылы өзгерістер VS Code-қа жүктеледі.
