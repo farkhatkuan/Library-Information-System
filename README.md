@@ -33,3 +33,5 @@ Library Information System for managing books, readers, book borrowing, returns,
 
 Бұл өзгеріс GitHub сайтында енгізілді.
 Git pull командасы арқылы өзгерістер VS Code-қа жүктеледі.
+
+тест 1
